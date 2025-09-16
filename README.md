@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Diksha Gupta
-- 👀 I’m interested in Learning new technologoies 
-- 🌱 I’m currently learning DSA 
-- 💞️ I’m looking to collaborate on web technologies
+- 👀 Interested in Learning new technologoies 
+- 🌱 Currently learning DSA 
+- 💞️ Looking to collaborate on web technologies
 - 📫 How to reach me  https://www.linkedin.com/in/diksha-gupta3094
 - 😄 Pronouns: she/Her
   
